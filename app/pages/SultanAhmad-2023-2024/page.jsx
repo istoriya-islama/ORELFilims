@@ -25,7 +25,7 @@ export default function MirJivotnih(){
             <br /><br />
             <div className="flex items-center justify-between gap-15">
                 <img src="../../SultanAhmad.png" alt="Султан Ахмад" className="w-[500px] h-[750px] rounded-2xl shadow-2xl shadow-blue-600" />
-                <p className="text-center font-bold text-shadow-2xl text-shadow-blue-600 mx-50">Год выпуска: 2022-2025<br />
+                <p className="text-center font-bold text-shadow-2xl text-shadow-blue-600 mx-50">Год выпуска: 2023-2024<br />
                    Жанр: фантастика, драма<br /><br />
                    
                    Описание фильма:<br /><br />
